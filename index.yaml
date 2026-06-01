@@ -9,6 +9,6 @@ entries:
     name: my-nginx-app
     type: application
     urls:
-    - https://jannawaelali-creator.github.io/my-helm-charts/my-nginx-app-0.1.0.tgz
+    - https://jannawaelali-creator.github.io/my-helm-charts1/my-nginx-app-0.1.0.tgz
     version: 0.1.0
 generated: "2026-06-01T21:17:03.845626263+03:00"
